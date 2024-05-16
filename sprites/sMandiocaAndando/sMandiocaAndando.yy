@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite1",
-  "bbox_bottom": 1244,
-  "bbox_left": 15,
-  "bbox_right": 764,
-  "bbox_top": 15,
+  "name": "sMandiocaAndando",
+  "bbox_bottom": 266,
+  "bbox_left": 0,
+  "bbox_right": 199,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d3e94688-c179-4f09-8b6d-dc0b11ffd53d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0a2c4c99-a234-465d-a722-3e2014dd3d53",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1245,
+  "height": 280,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3edd5c16-f8b5-46ea-964a-ec6dc98a2c18","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"76a34065-c981-429f-be30-490d3924d57e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite1",
+    "name": "sMandiocaAndando",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d3e94688-c179-4f09-8b6d-dc0b11ffd53d","path":"sprites/Sprite1/Sprite1.yy",},},},"Disabled":false,"id":"f8e06ec2-02ba-4cbd-acfb-a0612d01e0ba","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0a2c4c99-a234-465d-a722-3e2014dd3d53","path":"sprites/sMandiocaAndando/sMandiocaAndando.yy",},},},"Disabled":false,"id":"8d3429b8-0996-4fc7-9888-a9a2bb3d8e17","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 765,
+  "width": 200,
 }
