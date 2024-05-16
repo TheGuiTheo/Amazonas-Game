@@ -36,7 +36,8 @@
   "resources": [
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"sMandiocaAndando","path":"sprites/sMandiocaAndando/sMandiocaAndando.yy",},},
+    {"id":{"name":"sMandiocaAbaixo2","path":"sprites/sMandiocaAbaixo2/sMandiocaAbaixo2.yy",},},
+    {"id":{"name":"sMandiocaAbaixo","path":"sprites/sMandiocaAbaixo/sMandiocaAbaixo.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

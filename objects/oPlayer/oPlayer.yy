@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sMandiocaAndando",
-    "path": "sprites/sMandiocaAndando/sMandiocaAndando.yy",
+    "name": "sMandiocaAbaixo",
+    "path": "sprites/sMandiocaAbaixo/sMandiocaAbaixo.yy",
   },
   "spriteMaskId": null,
   "visible": true,
